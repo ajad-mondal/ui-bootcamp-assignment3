@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: isSameObject.js
+  checksum: e7926857ffb27202d409f472d88f1d6b236925163571e04cda86bfb0e8453d73
+version: ""
